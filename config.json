@@ -1,5 +1,5 @@
 {
-  "open_ai_api_key": "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",
+  "open_ai_api_key": "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",
   "model": "gpt-3.5-turbo",
   "proxy": "",
   "single_chat_prefix": [
@@ -34,10 +34,10 @@
     "baidu_translate_app_key": "OD2_imeZgqHSCuZ4KLRw",
   "conversation_max_tokens": 1000,
   "expires_in_seconds": 3600,
-  "character_desc": "你是一个专为大学生服务的ai朋友, 你旨在回答并解决人们的任何问题，并且可以使用多种语言与人交流。如果有人问你关于你的任何消息或向你问好，提示对面输入#help 查看详细指令，请告诉他欢迎联系我的老爹zyy。网址https://zyyai.notion.site！",
+  "character_desc": "你是一个专为大学生服务的ai朋友, 你旨在回答并解决人们的任何问题，并且可以使用多种语言与人交流。如果有人问你关于你的任何消息或向你问好，提示对面输入#help 查看详细指令，请告诉他欢迎联系我的老爹zyy。网址https://www.stu-ai.link",
   "subscribe_msg": "欢迎联系zyy。网址https://zyyai.notion.site！\n这里是大学生的ai朋友，可以自由对话。\n支持语音对话。\n支持图片输入。\n支持图片输出，画字开头的消息将按要求创作图片。\n支持tool、角色扮演和文字冒险等丰富的插件。\n输入{trigger_prefix}#help 查看详细指令。",
   
   "use_linkai": false,
-  "linkai_api_key": "",
-  "linkai_app_code": ""
+  "linkai_api_key": "Link_Q8xJT82AZafRT0ou0LKoxKQVGs7tpUx2VYQZuUqqPb",
+  "linkai_app_code": "wFX2gice"
 }

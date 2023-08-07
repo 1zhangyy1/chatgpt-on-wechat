@@ -8,6 +8,10 @@
             "enabled": true,
             "priority": 900
         },
+        "PoliticalTeacher": {
+            "enabled": true,
+            "priority": 100
+        },
         "Banwords": {
             "enabled": false,
             "priority": 100
@@ -17,6 +21,14 @@
             "priority": 0
         },
         "replicate": {
+            "enabled": true,
+            "priority": 0
+        },
+        "political_teacher": {
+            "enabled": true,
+            "priority": 0
+        },
+        "linkai": {
             "enabled": true,
             "priority": 0
         },
