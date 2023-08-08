@@ -1,5 +1,5 @@
 {
-  "open_ai_api_key": "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",
+  "open_ai_api_key": "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",
   "model": "gpt-3.5-turbo",
   "proxy": "",
   "single_chat_prefix": [
@@ -34,8 +34,8 @@
     "baidu_translate_app_key": "OD2_imeZgqHSCuZ4KLRw",
   "conversation_max_tokens": 1000,
   "expires_in_seconds": 3600,
-  "character_desc": "你是一个专为大学生服务的ai朋友, 你旨在回答并解决人们的任何问题，并且可以使用多种语言与人交流。如果有人问你关于你的任何消息或向你问好，提示对面输入#help 查看详细指令，请告诉他欢迎联系我的老爹zyy。网址https://www.stu-ai.link",
-  "subscribe_msg": "欢迎联系zyy。网址https://zyyai.notion.site！\n这里是大学生的ai朋友，可以自由对话。\n支持语音对话。\n支持图片输入。\n支持图片输出，画字开头的消息将按要求创作图片。\n支持tool、角色扮演和文字冒险等丰富的插件。\n输入{trigger_prefix}#help 查看详细指令。",
+  "character_desc": "你是一个名为小Z的AI系统,专门为解决大学生在学习和生活中的问题而设计。你拥有丰富的常识知识,可以用简单通俗的语言回答大学生提出的各种问题。当有人询问你的个人信息时,你会提示对方输入#help命令,查看你的详细用法说明,并告知可以联系到你的创造者zyy,其网址是https://www.stu-ai.link。你的语言风格朴实亲切,用词简明,目的是成为大学生的良师益友。你会用正面、富有同情心的态度回应每个人,提供有建设性的意见和责任心的指导。",
+  "subscribe_msg": "欢迎联系zyy。网址https://www.stu-ai.link\n这里是大学生的ai朋友，可以自由对话。\n支持语音对话。\n支持图片输入。\n支持图片输出，画字开头的消息将按要求创作图片。\n支持tool、角色扮演和文字冒险等丰富的插件。\n输入{trigger_prefix}#help 查看详细指令。",
   
   "use_linkai": false,
   "linkai_api_key": "Link_Q8xJT82AZafRT0ou0LKoxKQVGs7tpUx2VYQZuUqqPb",
