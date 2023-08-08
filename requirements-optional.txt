@@ -25,8 +25,6 @@ wechatpy
 # chatgpt-tool-hub plugin
 
 --extra-index-url https://pypi.python.org/simple
-<<<<<<< HEAD
-chatgpt_tool_hub==0.4.4 
-=======
+
 chatgpt_tool_hub==0.4.6
->>>>>>> upstream/master
+
